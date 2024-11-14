@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="ar">
 <head>
     <meta charset="UTF-8">
@@ -69,7 +69,6 @@
 </head>
 <body>
     <div class="header">
-        <img src="https://assets.onecompiler.app/42r523uca/42vf4yhs4/JO.png"شعار الصفحة"> <!-- استبدل الرابط برابط الشعار الخاص بك -->
         <h1>شركات الطاقة الشمسية في الأردن</h1>
     </div>
 
